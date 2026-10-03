@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 200%;
+}
+h1{
+    margin-top: 50px;
+    font: 1em sans-serif;
+    font-size: 3em;
+    font-family: 'monospace', 'Arial Narrow', Arial, sans-serif ;
+}
+h2{
+    font-size: 1.5em;
+    margin-top: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+h3{
+    font-size: 1.5em;
+    margin-top: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.pro{
+    margin-right: 10px ;
+}
+
+.top-container{
+    background-color: rgb(171, 212, 240);
+    position: relative;
+    padding-top: 50px;
+}
+
+
+  
+.profile img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    
+ }
+
+.cloud2{
+    position: absolute;
+    right: 00px;
+    top: 0px;
+    bottom: 210px;    padding: 30px;
+}
+.cloud1{
+   left: 400px;
+    bottom:210px;
+    position: absolute;
+    top: 0px;
+} 
+.cloud3{
+    position: absolute;
+    right: 400px;
+    top: 0px;
+    bottom: 210px;
+    padding: 50px;
+
+}
+bottom{
+    background-color: rgb(117, 189, 238);
+}
